@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santidz1991.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python, django, java, javascript and sql.
+- 🌱 I’m currently learning python, django, java, javascript, sql, HTML and CSS
 - 💞️ I’m looking to collaborate in all possible.
 - 📫 How to reach me santiagodelzotto.it@gmail.com
 
