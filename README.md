@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Santidz1991.
-- 👀 I’m interested in FrontEnd.
-- 💞️ I’m looking to collaborate in all possible, looking for a job also.
 - 📫 How to reach me santiagodelzotto.it@gmail.com
 
 <!---
